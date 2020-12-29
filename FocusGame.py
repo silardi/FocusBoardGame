@@ -440,10 +440,3 @@ class FocusGame:
         """
         for i in self._board:
             print(i)
-
-game = FocusGame(('PlayerA', 'R'), ('PlayerB','G'))
-game.move_piece('PlayerA',(0,0), (0,1), 1)  #Returns message "successfully moved"
-game.show_pieces((0,1)) #Returns ['R','R']
-game.show_captured('PlayerA') # Returns 0
-game.reserved_move('PlayerA', (0,0)) # Returns message "No pieces in reserve"
-game.show_reserve('PlayerA') # Returns 0
