@@ -2,7 +2,7 @@
 
 ## Description
 
-This program is a two-player version of the game Focus (also known as Domination) that was created using Python. A link to the rules of the game can be found [here](https://boardgamegeek.com/boardgame/789/focus).
+This is a two-player version of the game Focus (also known as Domination) written in Python. A link to the rules of the game can be found [here](https://boardgamegeek.com/boardgame/789/focus).
 
 ---
 
